@@ -1,0 +1,6 @@
+irb 
+
+v[] para criar um vetor
+
+v.push (40) para add um dado no vetor
+v.delete(90) para deletar um valor no vetor
